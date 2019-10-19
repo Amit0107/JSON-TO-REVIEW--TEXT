@@ -1,0 +1,88 @@
+{
+    "Limit": 7,
+    "Offset": 0,
+    "TotalResults": 7,
+    "Locale": "en_US",
+    "Results": [
+        {
+            "ProductStatistics": {
+                "ProductId": "RF50K5910DP_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": 2.5,
+                    "TotalReviewCount": 4,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF28K9380SG_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": 4.3433,
+                    "TotalReviewCount": 67,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF28N9780SG_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": 3.625,
+                    "TotalReviewCount": 8,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF50K5910B1_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": null,
+                    "TotalReviewCount": 0,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF56K9040DP_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": null,
+                    "TotalReviewCount": 0,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF50K5910SL_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": null,
+                    "TotalReviewCount": 0,
+                    "OverallRatingRange": 5
+                }
+            }
+        },
+        {
+            "ProductStatistics": {
+                "ProductId": "RF60J9090SL_TL",
+                "NativeReviewStatistics": {},
+                "ReviewStatistics": {
+                    "AverageOverallRating": 5,
+                    "TotalReviewCount": 1,
+                    "OverallRatingRange": 5
+                }
+            }
+        }
+    ],
+    "Includes": {},
+    "HasErrors": false,
+    "Errors": []
+}

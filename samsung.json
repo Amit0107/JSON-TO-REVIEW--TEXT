@@ -1,0 +1,2196 @@
+{
+  "data" : [ {
+    "productId" : 300240,
+    "productName" : "Samsung 1 Ton 2 Star Split AC India Green (AR12JC2USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300240/Samsung-1-Ton-2-Star-Split-AC-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300241,
+    "productName" : "Samsung 1 Ton 2 Star Split AC Morning Glory Violet (AR12JC2JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300241/Samsung-1-Ton-2-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300242,
+    "productName" : "Samsung 1 Ton 2 Star Split AC Strip-Blue (AR12HC2USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300242/Samsung-1-Ton-2-Star-Split-AC-Strip-Blue-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300243,
+    "productName" : "Samsung 1 Ton 2 Star Split AC Strip-India Green (AR12HC2USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300243/Samsung-1-Ton-2-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300244,
+    "productName" : "Samsung 1 Ton 3 Star Split AC Purista Pattern (AR12HC3TFUR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300244/Samsung-1-Ton-3-Star-Split-AC-Purista-Pattern-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300245,
+    "productName" : "Samsung 1 Ton 3 Star Split AC Strip-Blue (AR12HC3USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300245/Samsung-1-Ton-3-Star-Split-AC-Strip-Blue-10.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300246,
+    "productName" : "Samsung 1 Ton 3 Star Split AC White (AR12JC3USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300246/Samsung-1-Ton-3-Star-Split-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300247,
+    "productName" : "Samsung 1 Ton 5 Star Split AC Morning Glory Violet (AR12JC5JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300247/Samsung-1-Ton-5-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300248,
+    "productName" : "Samsung 1 Ton 5 Star Split AC Strip-India Green (AR12HC5USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300248/Samsung-1-Ton-5-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300249,
+    "productName" : "Samsung 1.0 Tons Inverter Split AC White (AR12HV5NBWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300249/Samsung-1.0-Tons-Inverter-Split-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300250,
+    "productName" : "Samsung 1.5 Ton 2 Star Split AC White (AR18JC2USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300250/Samsung-1.5-Ton-2-Star-Split-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300251,
+    "productName" : "Samsung 1.5 Ton 2 Star Split AC Morning Glory Violet (AR18JC2JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300251/Samsung-1.5-Ton-2-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300252,
+    "productName" : "Samsung 1.5 Ton 2 Star Split AC Strip-India Green (AR18HC2USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300252/Samsung-1.5-Ton-2-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300253,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC India Green (AR18HC3UXNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300253/Samsung-1.5-Ton-3-Star-Split-AC-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300254,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC India Green (AR18JC3USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300254/Samsung-1.5-Ton-3-Star-Split-AC-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300255,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC Morning Glory Violet (AR18JC3JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300255/Samsung-1.5-Ton-3-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300256,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC Panel - Refined Wine (AR18HC3ESLW)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300256/Samsung-1.5-Ton-3-Star-Split-AC-Panel---Refined-Wine-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300257,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC Purista Pattern (Sanganeri) (AR18HC3TFUR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300257/Samsung-1.5-Ton-3-Star-Split-AC-Purista-Pattern-(Sanganeri)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300258,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC Strip-Blue (AR18HC3USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300258/Samsung-1.5-Ton-3-Star-Split-AC-Strip-Blue-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300259,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC Strip-India Green (AR18HC3USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300259/Samsung-1.5-Ton-3-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300260,
+    "productName" : "Samsung 1.5 Ton 5 Star Split AC Morning Glory Violet (AR18JC5JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300260/Samsung-1.5-Ton-5-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300261,
+    "productName" : "Samsung 1.5 Ton 5 Star Split AC Strip-Blue (AR18HC5USUQ)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300261/Samsung-1.5-Ton-5-Star-Split-AC-Strip-Blue-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300262,
+    "productName" : "Samsung 1.5 Ton 5 Star Split AC Strip-India Green (AR18HC5USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300262/Samsung-1.5-Ton-5-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300263,
+    "productName" : "Samsung 1.5 Ton 5 Star Split AC White (AR18HC5UXNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300263/Samsung-1.5-Ton-5-Star-Split-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300264,
+    "productName" : "Samsung 2 Ton 2 Star Split AC Morning Glory Violet (AR24JC2JAMV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300264/Samsung-2-Ton-2-Star-Split-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300265,
+    "productName" : "Samsung 2 Ton 2 Star Split AC Strip-India Green (AR24HC2USNB)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300265/Samsung-2-Ton-2-Star-Split-AC-Strip-India-Green-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300266,
+    "productName" : "Samsung 2 Ton 3 Star Split AC Purista Pattern (AR24HC3TFUR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300266/Samsung-2-Ton-3-Star-Split-AC-Purista-Pattern-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300475,
+    "productName" : "Samsung 1.5 Ton 5 Star AR18JV5HBWK Split AC Plain White",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300475/Samsung-1.5-Ton-5-Star-AR18JV5HBWK-Split-AC-Plain-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300503,
+    "productName" : "Samsung 1.5 Ton 2 Star Ar18hc2tyur Split AC White",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:06.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:06.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300503/Samsung-1.5-Ton-2-Star-Ar18hc2tyur-Split-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300517,
+    "productName" : "Samsung 1.5 Ton 5 Star Boracay AR18HC5TSNC Split AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300517/Samsung-1.5-Ton-5-Star-Boracay-AR18HC5TSNC-Split-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300523,
+    "productName" : "Samsung 1.5 Ton 5 Star Crystal AR18HC5ESLZ Split AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300523/Samsung-1.5-Ton-5-Star-Crystal-AR18HC5ESLZ-Split-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300531,
+    "productName" : "Samsung 1.5 Ton 3 Star AR18JC3HATP Split AC Lily Grey",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300531/Samsung-1.5-Ton-3-Star-AR18JC3HATP-Split-AC-Lily-Grey-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300603,
+    "productName" : "Samsung 2 Ton Inverter AR24HV5NBWK Split AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300603/Samsung-2-Ton-Inverter-AR24HV5NBWK-Split-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300652,
+    "productName" : "Samsung 1 Ton 5 Star AR12JC5USUQNNA AC Blue Strip",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300652/Samsung-1-Ton-5-Star-AR12JC5USUQNNA-AC-Blue-Strip-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300653,
+    "productName" : "Samsung 1 Ton Inverter AC AR12JV5HATQNNA AC Tender Lily Grey",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300653/Samsung-1-Ton-Inverter-AC-AR12JV5HATQNNA-AC-Tender-Lily-Grey-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300654,
+    "productName" : "Samsung 1 Ton Inverter AC AR12JV5HBWKNNA AC Plain",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300654/Samsung-1-Ton-Inverter-AC-AR12JV5HBWKNNA-AC-Plain-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300655,
+    "productName" : "Samsung 1 Ton Inverter AC AR12JV5NBWKNNA AC New Blue",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300655/Samsung-1-Ton-Inverter-AC-AR12JV5NBWKNNA-AC-New-Blue-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300656,
+    "productName" : "Samsung 1.5 Ton 2 Star AR18JC2USUQNNA AC Blue Strip",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300656/Samsung-1.5-Ton-2-Star-AR18JC2USUQNNA-AC-Blue-Strip-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300657,
+    "productName" : "Samsung 1.5 Ton 3 Star AR18JC3USUQNNA AC White",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300657/Samsung-1.5-Ton-3-Star-AR18JC3USUQNNA-AC-White-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300658,
+    "productName" : "Samsung 1.5 Ton 5 Star AR18JC5JAMVNNA AC Morning Glory Violet",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300658/Samsung-1.5-Ton-5-Star-AR18JC5JAMVNNA-AC-Morning-Glory-Violet-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300659,
+    "productName" : "Samsung 1.5 Ton Inverter AC AR18JV5HATQNNA AC Tender Lily Grey",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300659/Samsung-1.5-Ton-Inverter-AC-AR18JV5HATQNNA-AC-Tender-Lily-Grey-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300660,
+    "productName" : "Samsung 1.5 Ton Inverter AC AR18JV5NBWKNNA AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300660/Samsung-1.5-Ton-Inverter-AC-AR18JV5NBWKNNA-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300662,
+    "productName" : "Samsung 2 Ton Inverter AC AR24JV5HBWKNNA AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300662/Samsung-2-Ton-Inverter-AC-AR24JV5HBWKNNA-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300663,
+    "productName" : "Samsung 3 Ton 3 Star AR12JC3ESLWNNA AC Refined Wine",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300663/Samsung-3-Ton-3-Star-AR12JC3ESLWNNA-AC-Refined-Wine-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300664,
+    "productName" : "Samsung 3 Ton 3 Star AR18JC3ESLWNNA AC Refined Wine",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300664/Samsung-3-Ton-3-Star-AR18JC3ESLWNNA-AC-Refined-Wine-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300665,
+    "productName" : "Samsung 3 Ton 3 Star AR18JC3JAMVNNA AC",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300665/Samsung-3-Ton-3-Star-AR18JC3JAMVNNA-AC-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300724,
+    "productName" : "Samsung 1 Ton 3 Star Split AC (AR12JC3ESLW)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300724/SAMSUNG-1-Ton-3-Star-Split-AC-(AR12JC3ESLW)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300725,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC (AR18KC3UDUQ)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300725/Samsung-1.5-Ton-3-Star-Split-AC-(AR18KC3UDUQ)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300726,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC (AR18KC3HDTR)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300726/Samsung-1.5-Ton-3-Star-Split-AC-(AR18KC3HDTR)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300727,
+    "productName" : "Samsung 2 Ton 3 Star Split AC (AR24KC3HATR)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300727/Samsung-2-Ton-3-Star-Split-AC-(AR24KC3HATR)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300762,
+    "productName" : "Samsung 1 Ton 3 Star Split AC (AR12MC3JAMC)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300762/Samsung-1-Ton-3-Star-Split-AC-(AR12MC3JAMC)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300763,
+    "productName" : "Samsung 1 Ton 5 Star Split AC (AR12MC5JAMC)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300763/Samsung-1-Ton-5-Star-Split-AC-(AR12MC5JAMC)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300764,
+    "productName" : "Samsung 1 Ton Inverter Split AC (AR12MV3HEWK)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300764/Samsung-1-Ton-Inverter-Split-AC-(AR12MV3HEWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300765,
+    "productName" : "Samsung 1.5 Ton Inverter Split AC (AR18MV3HEWK / AR18MV3HLWK)",
+    "productType" : "Air Conditioners",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300765/SAMSUNG-1.5-Ton-Inverter-Split-AC-(AR18MV3HEWK-----AR18MV3HLWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300837,
+    "productName" : "Samsung 1.5 Ton 3 Star Split AC (AR18MC3ULGM)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300837/Samsung-1.5-Ton-3-Star-Split-AC-(AR18MC3ULGM)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300838,
+    "productName" : "Samsung 1.5 Ton 5 Star Split AC (AR18MC5ULGM)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300838/Samsung-1.5-Ton-5-Star-Split-AC-(AR18MC5ULGM)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 300839,
+    "productName" : "Samsung 1.5 Ton Inverter Split AC (AR18MV3HLWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "300839/Samsung-1.5-Ton-Inverter-Split-AC-(AR18MV3HLWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301039,
+    "productName" : "Samsung 1 Ton 3 Star Inverter AC White (AR12NV3HFTR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301039/Samsung-1-Ton-3-Star-Inverter-AC-White-(AR12NV3HFTR)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301040,
+    "productName" : "Samsung 1 Ton 3 Star Inverter AC White (AR12NV3JLMC)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301040/Samsung-1-Ton-3-Star-Inverter-AC-White-(AR12NV3JLMC)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301041,
+    "productName" : "Samsung 1 Ton 3 Star Inverter AC White (AR12NV3HLTR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301041/Samsung-1-Ton-3-Star-Inverter-AC-White-(AR12NV3HLTR)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301042,
+    "productName" : "Samsung 1 Ton 3 Star Split AC White (AR12NV3HFTV)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301042/Samsung-1-Ton-3-Star-Split-AC-White-(AR12NV3HFTV)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301043,
+    "productName" : "Samsung 1 Ton 5 Star Inverter AC White (AR12NV5XEWK/NA)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301043/Samsung-1-Ton-5-Star-Inverter-AC-White-(AR12NV5XEWK---NA)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301044,
+    "productName" : "Samsung 1.2 Ton 3 Star Split AC White (AR12NV3HFWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301044/Samsung-1.2-Ton-3-Star-Split-AC-White-(AR12NV3HFWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301045,
+    "productName" : "Samsung 1.5 Ton 3 Star Inverter AC White (AR18NV3HFTR)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301045/Samsung-1.5-Ton-3-Star-Inverter-AC-White-(AR18NV3HFTR)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301046,
+    "productName" : "Samsung 1.5 Ton 3 Star Inverter AC White (AR18NV3XEWK/NA)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301046/Samsung-1.5-Ton-3-Star-Inverter-AC-White-(AR18NV3XEWK---NA)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301047,
+    "productName" : "Samsung 1.5 Ton 3 Star Inverter AC White (AR18NV3HEWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301047/Samsung-1.5-Ton-3-Star-Inverter-AC-White-(AR18NV3HEWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301048,
+    "productName" : "Samsung 1.5 Ton 5 Star Inverter AC White (AR18NV5XEWK/NA)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301048/Samsung-1.5-Ton-5-Star-Inverter-AC-White-(AR18NV5XEWK---NA)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301049,
+    "productName" : "Samsung 2 Ton 3 Star Inverter AC White (AR24NV3JGMC)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301049/Samsung-2-Ton-3-Star-Inverter-AC-White-(AR24NV3JGMC)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301180,
+    "productName" : "Samsung 1 Ton 1 Star Split AC (AR12MC3HATT)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301180/Samsung-1-Ton-1-Star-Split-AC-(AR12MC3HATT)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301181,
+    "productName" : "Samsung 1 Ton 3 Star Inverter Split AC ( AR12NV3HETU)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301181/Samsung-1-Ton-3-Star-Inverter-Split-AC-(-AR12NV3HETU)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301182,
+    "productName" : "Samsung 1 Ton 3 Star Inverter Split AC ( AR12NV3PAWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301182/Samsung-1-Ton-3-Star-Inverter-Split-AC-(-AR12NV3PAWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301183,
+    "productName" : "Samsung 1.5 Ton 1 Star Split AC (AR18MC3HDTT)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301183/Samsung-1.5-Ton-1-Star-Split-AC-(AR18MC3HDTT)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  }, {
+    "productId" : 301184,
+    "productName" : "Samsung 1.5 Ton 3 Star Inverter Split AC ( AR18NV3HFWK)",
+    "productType" : "Air Conditioner",
+    "createdDate" : "2018-12-26T11:25:39.000+0000",
+    "modifiedDate" : "2018-12-26T11:25:39.000+0000",
+    "status" : "A",
+    "primaryImageLoc" : "301184/Samsung-1.5-Ton-3-Star-Inverter-Split-AC-(-AR18NV3HFWK)-1.jpeg",
+    "brandEntity" : {
+      "id" : 140,
+      "accountId" : 7,
+      "brandName" : "Samsung",
+      "brandDesc" : "Samsung",
+      "brandNationality" : "South Korea",
+      "brandLogoLoc" : null,
+      "createdDate" : "2018-12-03T09:50:05.000+0000",
+      "modifiedDate" : "2018-12-26T11:25:36.000+0000",
+      "displayInSmaartChat" : "N",
+      "status" : "A"
+    },
+    "categoryEntity" : {
+      "id" : 4,
+      "domainId" : 1,
+      "categoryName" : "Air Conditioners",
+      "categoryDesc" : "Air Conditioners",
+      "categoryIconLoc" : null,
+      "createdDate" : "2018-12-03T09:46:33.000+0000",
+      "modifiedDate" : "2018-12-26T11:17:45.000+0000",
+      "status" : "A"
+    }
+  } ],
+  "remarks" : "",
+  "error" : null,
+  "sessionValid" : true
+}

@@ -1,0 +1,2855 @@
+{
+    "Errors": [],
+    "HasErrors": false,
+    "BatchedResultsOrder": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q0"
+    ],
+    "SuccessfulRequests": 5,
+    "FailedRequests": 0,
+    "TotalRequests": 5,
+    "BatchedResults": {
+        "q1": {
+            "Id": "q1",
+            "Limit": 8,
+            "Offset": 0,
+            "TotalResults": 10,
+            "Locale": "en_IN",
+            "Results": [
+                {
+                    "Id": "182599152",
+                    "CID": "3f8f33fe-7569-5b1c-9bcf-e989c94cb7ba",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-11-26T01:30:11.000+00:00",
+                    "LastModificationTime": "2018-12-21T13:24:08.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "die4gypy566ap2a83xeazz9sk",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 0.9916669726371765,
+                    "TotalFeedbackCount": 120,
+                    "TotalNegativeFeedbackCount": 1,
+                    "TotalPositiveFeedbackCount": 119,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "b75wgduaz9o4u7npkpt8q6cz1",
+                    "SubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "Great smart phone at great pricing. All  should buy",
+                    "Title": "Great smart phone at great pricing",
+                    "UserNickname": "Vishnu",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Inexpensive",
+                                "Realistic color",
+                                "Bright display",
+                                "Lightweight"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "182496338",
+                    "CID": "1e7cd2f5-bc87-5fe7-a6db-604566ae3797",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-11-27T13:30:03.000+00:00",
+                    "LastModificationTime": "2018-12-12T10:39:45.000+00:00",
+                    "ProductId": "SM-J610FZBGINS",
+                    "CampaignId": "BV_REVIEW_DISPLAY",
+                    "AuthorId": "q10m6lhu576iu886w2ijuxfpv",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 0.9591839909553528,
+                    "TotalFeedbackCount": 49,
+                    "TotalNegativeFeedbackCount": 2,
+                    "TotalPositiveFeedbackCount": 47,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "5rbykbhvefsimqcbkphi034kb",
+                    "SubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "I bought 2days back it's awesome performance and very nice looking",
+                    "Title": "Side fingerprint, looking",
+                    "UserNickname": null,
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Built-in speakers"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "182495434",
+                    "CID": "887954ef-5a28-541c-baa4-c03b8aaf69b1",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-10-03T17:15:04.000+00:00",
+                    "LastModificationTime": "2018-11-18T19:30:27.000+00:00",
+                    "ProductId": "SM-J610FZKGINS",
+                    "AuthorId": "5w52a9hd2jwxvi1yznx9rgnsy",
+                    "ContentLocale": "en_US",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 0.6666669845581055,
+                    "TotalFeedbackCount": 6,
+                    "TotalNegativeFeedbackCount": 2,
+                    "TotalPositiveFeedbackCount": 4,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "tr2fj8o14exviwlizdc10d2e4",
+                    "SubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                    "ReviewText": "ITS A GOOD ONE BETTER THAN J8 ..NOT HEAT AT ALL.SMOOTH N FAST N LOOKS IS GOOD ..CHARGING FAST N MORE DURATION...OVERALL A GOOD CHOICE,,I AM CONFUSE THAT WHY SAMSUNG HAS LAUNCHED THIS ONE IN SUCH A LESS PRICE..SIZE IS LITTLE BIGGER THAN SAMSUNG J8..GOOD ONE",
+                    "Title": "VERY SMOOTH N FAST NOT GETS HEAT",
+                    "UserNickname": "SAGAR",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "TagDimensions": {},
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "TagDimensionsOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "CampaignId": null,
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "182437964",
+                    "CID": "5ca0aeea-cf4b-5556-8edd-4ebdc8f93e32",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-09-30T16:30:03.000+00:00",
+                    "LastModificationTime": "2018-12-18T03:22:36.000+00:00",
+                    "ProductId": "SM-J610FZKGINS",
+                    "AuthorId": "m7ox89shfrwixhmwun0x8z0as",
+                    "ContentLocale": "en_US",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 0.699999988079071,
+                    "TotalFeedbackCount": 10,
+                    "TotalNegativeFeedbackCount": 3,
+                    "TotalPositiveFeedbackCount": 7,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "ps26cbs18asx6ngyp5fyx3rks",
+                    "SubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                    "ReviewText": "Comparing with other phones of this range, Samsung J6 plus is the best one. \nThat's what I did and purchased. New features, stunning look, glossy finish, low price, AMOLED screen and camera technology made it a must buy product. Hope Samsung will serve us with these kind a products always. Lovin' it ♥",
+                    "Title": "J6 plus is a gift from Samsung",
+                    "UserNickname": "Cris",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "TagDimensions": {},
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "TagDimensionsOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "CampaignId": null,
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "183299333",
+                    "CID": "b7a11c59-5c7c-5a99-a715-ac0feed511e7",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-11-02T16:00:02.000+00:00",
+                    "LastModificationTime": "2018-11-27T11:45:45.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_REVIEW_DISPLAY",
+                    "AuthorId": "tqg9xdpxuwagtjzvekpfqfv6t",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 4,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 1,
+                    "TotalFeedbackCount": 2,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 2,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "ayond7qd67odzsrw834t4us9q",
+                    "SubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                    "ReviewText": "Plz increase the battery capacity as like Asus mob.\r\nExcept battery problem this product is so good",
+                    "Title": "Great features but lacking of battery capacity",
+                    "UserNickname": "Roshni",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "TagDimensions": {},
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "TagDimensionsOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "183341036",
+                    "CID": "ae7a82c8-964b-5139-a23f-b15c68804512",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-11-05T13:45:02.000+00:00",
+                    "LastModificationTime": "2018-11-05T13:45:02.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "trzaufi0fswr0cazyvzzhop82",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 3,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "hb2gcbdyg8f382c9noa50agw4",
+                    "SubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "I buy 20 day before I'm not satisfied mobile very high price",
+                    "Title": "Battery draining",
+                    "UserNickname": "Ganeshmani",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 3,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 3,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 4,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 3,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Inexpensive"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "Helpfulness": null,
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "182533399",
+                    "CID": "cc870d3f-daad-5afb-9fbf-aa6f43e0cd45",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-10-05T11:45:01.000+00:00",
+                    "LastModificationTime": "2018-11-05T11:13:46.000+00:00",
+                    "ProductId": "SM-J610FZKGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "qhgxbr28c9ykkywnyzpawnlvn",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 3,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 1,
+                    "TotalFeedbackCount": 4,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 4,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "itpxcrv4y5tokj76cwnatlflv",
+                    "SubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "There must be Lock screen Stories just like as in J6.",
+                    "Title": "Lock Screen Stories missed",
+                    "UserNickname": null,
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 4,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 3,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 3,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Bright display"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                },
+                {
+                    "Id": "183999931",
+                    "CID": "c9b03d56-99dd-5d61-8ae4-8e4ffcdb5541",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-12-10T18:45:05.000+00:00",
+                    "LastModificationTime": "2018-12-10T18:45:05.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "iubh72hilu6ox43hy8xr9890s",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 2,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "hlrzpmpwzn7otenc0fqhjb4hm",
+                    "SubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                    "ReviewText": "I bought 1 month ago after update front cam not work",
+                    "Title": "Best but not better",
+                    "UserNickname": "Ravi4725",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 1,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 1,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 2,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "Helpfulness": null,
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "TagDimensions": {},
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "TagDimensionsOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                }
+            ],
+            "Includes": {
+                "Products": {
+                    "SM-J610FZKGINS": {
+                        "FamilyIds": [
+                            "SM-J610F_DS"
+                        ],
+                        "EANs": [
+                            "8801643499334",
+                            "8801643555634",
+                            "8801643499112"
+                        ],
+                        "AttributesOrder": [
+                            "BV_FE_EXPAND",
+                            "BV_FE_FAMILY"
+                        ],
+                        "Attributes": {
+                            "BV_FE_EXPAND": {
+                                "Id": "BV_FE_EXPAND",
+                                "Values": [
+                                    {
+                                        "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            },
+                            "BV_FE_FAMILY": {
+                                "Id": "BV_FE_FAMILY",
+                                "Values": [
+                                    {
+                                        "Value": "SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            }
+                        },
+                        "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzkgins-frontblack-119404175",
+                        "Name": "Galaxy J6+",
+                        "Id": "SM-J610FZKGINS",
+                        "CategoryId": "20010500",
+                        "BrandExternalId": "samsung",
+                        "Brand": {
+                            "Id": "samsung",
+                            "Name": "samsung"
+                        },
+                        "Active": true,
+                        "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZKGINS/",
+                        "Disabled": false,
+                        "ManufacturerPartNumbers": [],
+                        "ReviewIds": [],
+                        "QuestionIds": [],
+                        "UPCs": [],
+                        "ModelNumbers": [],
+                        "StoryIds": [],
+                        "ISBNs": [],
+                        "Description": null,
+                        "ReviewStatistics": {
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "AverageOverallRating": 3.4,
+                            "RecommendedCount": 7,
+                            "HelpfulVoteCount": 187,
+                            "RatingsOnlyReviewCount": 0,
+                            "TotalReviewCount": 10,
+                            "FeaturedReviewCount": 0,
+                            "NotRecommendedCount": 3,
+                            "NotHelpfulVoteCount": 17,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 10,
+                        "FilteredReviewStatistics": {
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "AverageOverallRating": 3.4,
+                            "RecommendedCount": 7,
+                            "HelpfulVoteCount": 187,
+                            "RatingsOnlyReviewCount": 0,
+                            "TotalReviewCount": 10,
+                            "FeaturedReviewCount": 0,
+                            "NotRecommendedCount": 3,
+                            "NotHelpfulVoteCount": 17,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "SM-J610FZRGINS": {
+                        "FamilyIds": [
+                            "SM-J610F_DS"
+                        ],
+                        "EANs": [
+                            "8801643499334",
+                            "8801643555634",
+                            "8801643499112"
+                        ],
+                        "AttributesOrder": [
+                            "BV_FE_EXPAND",
+                            "BV_FE_FAMILY"
+                        ],
+                        "Attributes": {
+                            "BV_FE_EXPAND": {
+                                "Id": "BV_FE_EXPAND",
+                                "Values": [
+                                    {
+                                        "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            },
+                            "BV_FE_FAMILY": {
+                                "Id": "BV_FE_FAMILY",
+                                "Values": [
+                                    {
+                                        "Value": "SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            }
+                        },
+                        "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzrgins-frontred-119404194",
+                        "Name": "Galaxy J6+",
+                        "Id": "SM-J610FZRGINS",
+                        "CategoryId": "20010500",
+                        "BrandExternalId": "samsung",
+                        "Brand": {
+                            "Id": "samsung",
+                            "Name": "samsung"
+                        },
+                        "Active": true,
+                        "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZRGINS/",
+                        "Disabled": false,
+                        "ManufacturerPartNumbers": [],
+                        "ReviewIds": [],
+                        "QuestionIds": [],
+                        "UPCs": [],
+                        "ModelNumbers": [],
+                        "StoryIds": [],
+                        "ISBNs": [],
+                        "Description": null,
+                        "ReviewStatistics": {
+                            "HelpfulVoteCount": 187,
+                            "RecommendedCount": 7,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "FeaturedReviewCount": 0,
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "NotHelpfulVoteCount": 17,
+                            "AverageOverallRating": 3.4,
+                            "NotRecommendedCount": 3,
+                            "TotalReviewCount": 10,
+                            "RatingsOnlyReviewCount": 0,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 10,
+                        "FilteredReviewStatistics": {
+                            "HelpfulVoteCount": 187,
+                            "RecommendedCount": 7,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "FeaturedReviewCount": 0,
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "NotHelpfulVoteCount": 17,
+                            "AverageOverallRating": 3.4,
+                            "NotRecommendedCount": 3,
+                            "TotalReviewCount": 10,
+                            "RatingsOnlyReviewCount": 0,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "SM-J610FZBGINS": {
+                        "FamilyIds": [
+                            "SM-J610F_DS"
+                        ],
+                        "EANs": [
+                            "8801643499334",
+                            "8801643555634",
+                            "8801643499112"
+                        ],
+                        "AttributesOrder": [
+                            "BV_FE_EXPAND",
+                            "BV_FE_FAMILY"
+                        ],
+                        "Attributes": {
+                            "BV_FE_EXPAND": {
+                                "Id": "BV_FE_EXPAND",
+                                "Values": [
+                                    {
+                                        "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            },
+                            "BV_FE_FAMILY": {
+                                "Id": "BV_FE_FAMILY",
+                                "Values": [
+                                    {
+                                        "Value": "SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            }
+                        },
+                        "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzbgins-frontblue-119404156",
+                        "Name": "Galaxy J6+",
+                        "Id": "SM-J610FZBGINS",
+                        "CategoryId": "20010500",
+                        "BrandExternalId": "samsung",
+                        "Brand": {
+                            "Id": "samsung",
+                            "Name": "samsung"
+                        },
+                        "Active": true,
+                        "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZBGINS/",
+                        "Disabled": false,
+                        "ManufacturerPartNumbers": [],
+                        "ReviewIds": [],
+                        "QuestionIds": [],
+                        "UPCs": [],
+                        "ModelNumbers": [],
+                        "StoryIds": [],
+                        "ISBNs": [],
+                        "Description": null,
+                        "ReviewStatistics": {
+                            "HelpfulVoteCount": 187,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "AverageOverallRating": 3.4,
+                            "RecommendedCount": 7,
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "NotHelpfulVoteCount": 17,
+                            "TotalReviewCount": 10,
+                            "NotRecommendedCount": 3,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 10,
+                        "FilteredReviewStatistics": {
+                            "HelpfulVoteCount": 187,
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 4
+                                },
+                                {
+                                    "RatingValue": 1,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 2
+                                },
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                },
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "AverageOverallRating": 3.4,
+                            "RecommendedCount": 7,
+                            "SecondaryRatingsAveragesOrder": [
+                                "Features",
+                                "Performance",
+                                "Design",
+                                "Value"
+                            ],
+                            "SecondaryRatingsAverages": {
+                                "Value": {
+                                    "Id": "Value",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Design": {
+                                    "Id": "Design",
+                                    "AverageRating": 4.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Features": {
+                                    "Id": "Features",
+                                    "AverageRating": 3.5,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                },
+                                "Performance": {
+                                    "Id": "Performance",
+                                    "AverageRating": 3.4,
+                                    "MinLabel": null,
+                                    "MaxLabel": null,
+                                    "DisplayType": "NORMAL",
+                                    "ValueRange": 5
+                                }
+                            },
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "NotHelpfulVoteCount": 17,
+                            "TotalReviewCount": 10,
+                            "NotRecommendedCount": 3,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    }
+                },
+                "ProductsOrder": [
+                    "SM-J610FZRGINS",
+                    "SM-J610FZBGINS",
+                    "SM-J610FZKGINS"
+                ],
+                "Authors": {
+                    "die4gypy566ap2a83xeazz9sk": {
+                        "Id": "die4gypy566ap2a83xeazz9sk",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Vishnu",
+                        "LastModeratedTime": "2018-10-09T18:30:03.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "TotalReviewCount": 1,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "HelpfulVoteCount": 119,
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "NotHelpfulVoteCount": 1,
+                            "FirstSubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                            "LastSubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                            "AverageOverallRating": 5,
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "TotalReviewCount": 1,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "HelpfulVoteCount": 119,
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "NotHelpfulVoteCount": 1,
+                            "FirstSubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                            "LastSubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                            "AverageOverallRating": 5,
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "m7ox89shfrwixhmwun0x8z0as": {
+                        "Id": "m7ox89shfrwixhmwun0x8z0as",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Cris",
+                        "LastModeratedTime": "2018-09-30T16:30:03.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "TotalReviewCount": 1,
+                            "RatingsOnlyReviewCount": 0,
+                            "RecommendedCount": 1,
+                            "HelpfulVoteCount": 7,
+                            "AverageOverallRating": 5,
+                            "NotRecommendedCount": 0,
+                            "NotHelpfulVoteCount": 3,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "LastSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                            "TotalReviewCount": 1,
+                            "RatingsOnlyReviewCount": 0,
+                            "RecommendedCount": 1,
+                            "HelpfulVoteCount": 7,
+                            "AverageOverallRating": 5,
+                            "NotRecommendedCount": 0,
+                            "NotHelpfulVoteCount": 3,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "q10m6lhu576iu886w2ijuxfpv": {
+                        "Id": "q10m6lhu576iu886w2ijuxfpv",
+                        "LastModeratedTime": "2018-10-03T17:15:04.000+00:00",
+                        "ModerationStatus": "REJECTED",
+                        "SubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "ContributorRank": null,
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "UserNickname": null,
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "NotRecommendedCount": 0,
+                            "RecommendedCount": 1,
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 5,
+                            "NotHelpfulVoteCount": 2,
+                            "FirstSubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                            "LastSubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 47,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "NotRecommendedCount": 0,
+                            "RecommendedCount": 1,
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 5,
+                            "NotHelpfulVoteCount": 2,
+                            "FirstSubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                            "LastSubmissionTime": "2018-10-03T10:51:11.000+00:00",
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 47,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "iubh72hilu6ox43hy8xr9890s": {
+                        "Id": "iubh72hilu6ox43hy8xr9890s",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Ravi4725",
+                        "LastModeratedTime": "2018-12-10T18:45:05.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "HelpfulVoteCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "FeaturedReviewCount": 0,
+                            "AverageOverallRating": 2,
+                            "TotalReviewCount": 1,
+                            "RecommendedCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                }
+                            ],
+                            "FirstSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "NotHelpfulVoteCount": 0,
+                            "NotRecommendedCount": 1,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "HelpfulVoteCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "FeaturedReviewCount": 0,
+                            "AverageOverallRating": 2,
+                            "TotalReviewCount": 1,
+                            "RecommendedCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 2,
+                                    "Count": 1
+                                }
+                            ],
+                            "FirstSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                            "NotHelpfulVoteCount": 0,
+                            "NotRecommendedCount": 1,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "5w52a9hd2jwxvi1yznx9rgnsy": {
+                        "Id": "5w52a9hd2jwxvi1yznx9rgnsy",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "SAGAR",
+                        "LastModeratedTime": "2018-10-03T17:15:04.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 4,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "NotHelpfulVoteCount": 2,
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "FirstSubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                            "LastSubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                            "AverageOverallRating": 5,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 4,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 5,
+                                    "Count": 1
+                                }
+                            ],
+                            "NotHelpfulVoteCount": 2,
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "FirstSubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                            "LastSubmissionTime": "2018-10-03T05:50:52.000+00:00",
+                            "AverageOverallRating": 5,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "trzaufi0fswr0cazyvzzhop82": {
+                        "Id": "trzaufi0fswr0cazyvzzhop82",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Ganeshmani",
+                        "LastModeratedTime": "2018-11-05T13:45:02.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "RatingsOnlyReviewCount": 0,
+                            "FeaturedReviewCount": 0,
+                            "NotHelpfulVoteCount": 0,
+                            "AverageOverallRating": 3,
+                            "HelpfulVoteCount": 0,
+                            "NotRecommendedCount": 1,
+                            "FirstSubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                            "LastSubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                            "RecommendedCount": 0,
+                            "TotalReviewCount": 1,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 1
+                                }
+                            ],
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "RatingsOnlyReviewCount": 0,
+                            "FeaturedReviewCount": 0,
+                            "NotHelpfulVoteCount": 0,
+                            "AverageOverallRating": 3,
+                            "HelpfulVoteCount": 0,
+                            "NotRecommendedCount": 1,
+                            "FirstSubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                            "LastSubmissionTime": "2018-11-05T13:00:11.000+00:00",
+                            "RecommendedCount": 0,
+                            "TotalReviewCount": 1,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 1
+                                }
+                            ],
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "qhgxbr28c9ykkywnyzpawnlvn": {
+                        "Id": "qhgxbr28c9ykkywnyzpawnlvn",
+                        "LastModeratedTime": "2018-10-05T11:45:02.000+00:00",
+                        "ModerationStatus": "REJECTED",
+                        "SubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "ContributorRank": null,
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "UserNickname": null,
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "NotRecommendedCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 1
+                                }
+                            ],
+                            "TotalReviewCount": 1,
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 3,
+                            "NotHelpfulVoteCount": 0,
+                            "RecommendedCount": 1,
+                            "FirstSubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                            "LastSubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                            "HelpfulVoteCount": 4,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "NotRecommendedCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 3,
+                                    "Count": 1
+                                }
+                            ],
+                            "TotalReviewCount": 1,
+                            "FeaturedReviewCount": 0,
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 3,
+                            "NotHelpfulVoteCount": 0,
+                            "RecommendedCount": 1,
+                            "FirstSubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                            "LastSubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                            "HelpfulVoteCount": 4,
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    },
+                    "tqg9xdpxuwagtjzvekpfqfv6t": {
+                        "Id": "tqg9xdpxuwagtjzvekpfqfv6t",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Roshni",
+                        "LastModeratedTime": "2018-11-02T16:00:02.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": [],
+                        "ReviewStatistics": {
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 4,
+                            "NotHelpfulVoteCount": 0,
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 2,
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "FirstSubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                            "LastSubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        },
+                        "TotalReviewCount": 1,
+                        "FilteredReviewStatistics": {
+                            "RatingsOnlyReviewCount": 0,
+                            "AverageOverallRating": 4,
+                            "NotHelpfulVoteCount": 0,
+                            "TotalReviewCount": 1,
+                            "HelpfulVoteCount": 2,
+                            "FeaturedReviewCount": 0,
+                            "RatingDistribution": [
+                                {
+                                    "RatingValue": 4,
+                                    "Count": 1
+                                }
+                            ],
+                            "RecommendedCount": 1,
+                            "NotRecommendedCount": 0,
+                            "FirstSubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                            "LastSubmissionTime": "2018-11-02T15:38:53.000+00:00",
+                            "ContextDataDistribution": {},
+                            "ContextDataDistributionOrder": [],
+                            "SecondaryRatingsAveragesOrder": [],
+                            "SecondaryRatingsAverages": {},
+                            "TagDistribution": {},
+                            "OverallRatingRange": 5,
+                            "TagDistributionOrder": []
+                        }
+                    }
+                },
+                "AuthorsOrder": [
+                    "die4gypy566ap2a83xeazz9sk",
+                    "q10m6lhu576iu886w2ijuxfpv",
+                    "5w52a9hd2jwxvi1yznx9rgnsy",
+                    "m7ox89shfrwixhmwun0x8z0as",
+                    "tqg9xdpxuwagtjzvekpfqfv6t",
+                    "trzaufi0fswr0cazyvzzhop82",
+                    "qhgxbr28c9ykkywnyzpawnlvn",
+                    "iubh72hilu6ox43hy8xr9890s"
+                ]
+            },
+            "HasErrors": false,
+            "Errors": []
+        },
+        "q2": {
+            "Id": "q2",
+            "Limit": 1,
+            "Offset": 0,
+            "TotalResults": 10,
+            "Locale": "en_IN",
+            "Results": [
+                {
+                    "Id": "183999931",
+                    "CID": "c9b03d56-99dd-5d61-8ae4-8e4ffcdb5541",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-12-10T18:45:05.000+00:00",
+                    "LastModificationTime": "2018-12-10T18:45:05.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "iubh72hilu6ox43hy8xr9890s",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 2,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": false,
+                    "TotalFeedbackCount": 0,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 0,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "hlrzpmpwzn7otenc0fqhjb4hm",
+                    "SubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                    "ReviewText": "I bought 1 month ago after update front cam not work",
+                    "Title": "Best but not better",
+                    "UserNickname": "Ravi4725",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 1,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 1,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 2,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "Helpfulness": null,
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "TagDimensions": {},
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "TagDimensionsOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                }
+            ],
+            "Includes": {},
+            "HasErrors": false,
+            "Errors": []
+        },
+        "q3": {
+            "Id": "q3",
+            "Limit": 1,
+            "Offset": 0,
+            "TotalResults": 4,
+            "Locale": "en_IN",
+            "Results": [
+                {
+                    "Id": "182599152",
+                    "CID": "3f8f33fe-7569-5b1c-9bcf-e989c94cb7ba",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-11-26T01:30:11.000+00:00",
+                    "LastModificationTime": "2018-12-21T13:24:08.000+00:00",
+                    "ProductId": "SM-J610FZRGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "die4gypy566ap2a83xeazz9sk",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 5,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 0.9916669726371765,
+                    "TotalFeedbackCount": 120,
+                    "TotalNegativeFeedbackCount": 1,
+                    "TotalPositiveFeedbackCount": 119,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "b75wgduaz9o4u7npkpt8q6cz1",
+                    "SubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "Great smart phone at great pricing. All  should buy",
+                    "Title": "Great smart phone at great pricing",
+                    "UserNickname": "Vishnu",
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 5,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 5,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 5,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Inexpensive",
+                                "Realistic color",
+                                "Bright display",
+                                "Lightweight"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                }
+            ],
+            "Includes": {
+                "Products": {
+                    "SM-J610FZRGINS": {
+                        "FamilyIds": [
+                            "SM-J610F_DS"
+                        ],
+                        "EANs": [
+                            "8801643499334",
+                            "8801643555634",
+                            "8801643499112"
+                        ],
+                        "AttributesOrder": [
+                            "BV_FE_EXPAND",
+                            "BV_FE_FAMILY"
+                        ],
+                        "Attributes": {
+                            "BV_FE_EXPAND": {
+                                "Id": "BV_FE_EXPAND",
+                                "Values": [
+                                    {
+                                        "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            },
+                            "BV_FE_FAMILY": {
+                                "Id": "BV_FE_FAMILY",
+                                "Values": [
+                                    {
+                                        "Value": "SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            }
+                        },
+                        "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzrgins-frontred-119404194",
+                        "Name": "Galaxy J6+",
+                        "Id": "SM-J610FZRGINS",
+                        "CategoryId": "20010500",
+                        "BrandExternalId": "samsung",
+                        "Brand": {
+                            "Id": "samsung",
+                            "Name": "samsung"
+                        },
+                        "Active": true,
+                        "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZRGINS/",
+                        "Disabled": false,
+                        "ManufacturerPartNumbers": [],
+                        "ReviewIds": [],
+                        "QuestionIds": [],
+                        "UPCs": [],
+                        "ModelNumbers": [],
+                        "StoryIds": [],
+                        "ISBNs": [],
+                        "Description": null
+                    }
+                },
+                "ProductsOrder": [
+                    "SM-J610FZRGINS"
+                ],
+                "Authors": {
+                    "die4gypy566ap2a83xeazz9sk": {
+                        "Id": "die4gypy566ap2a83xeazz9sk",
+                        "ContributorRank": "NONE",
+                        "UserNickname": "Vishnu",
+                        "LastModeratedTime": "2018-10-09T18:30:03.000+00:00",
+                        "ModerationStatus": "APPROVED",
+                        "SubmissionTime": "2018-10-09T05:56:58.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": []
+                    }
+                },
+                "AuthorsOrder": [
+                    "die4gypy566ap2a83xeazz9sk"
+                ]
+            },
+            "HasErrors": false,
+            "Errors": []
+        },
+        "q4": {
+            "Id": "q4",
+            "Limit": 1,
+            "Offset": 0,
+            "TotalResults": 2,
+            "Locale": "en_IN",
+            "Results": [
+                {
+                    "Id": "182533399",
+                    "CID": "cc870d3f-daad-5afb-9fbf-aa6f43e0cd45",
+                    "SourceClient": "samsung-en_in",
+                    "LastModeratedTime": "2018-10-05T11:45:01.000+00:00",
+                    "LastModificationTime": "2018-11-05T11:13:46.000+00:00",
+                    "ProductId": "SM-J610FZKGINS",
+                    "CampaignId": "BV_RATING_SUMMARY",
+                    "AuthorId": "qhgxbr28c9ykkywnyzpawnlvn",
+                    "ContentLocale": "en_IN",
+                    "IsFeatured": false,
+                    "TotalClientResponseCount": 0,
+                    "TotalCommentCount": 0,
+                    "Rating": 3,
+                    "SecondaryRatingsOrder": [
+                        "Features",
+                        "Performance",
+                        "Design",
+                        "Value"
+                    ],
+                    "IsRatingsOnly": false,
+                    "IsRecommended": true,
+                    "Helpfulness": 1,
+                    "TotalFeedbackCount": 4,
+                    "TotalNegativeFeedbackCount": 0,
+                    "TotalPositiveFeedbackCount": 4,
+                    "ModerationStatus": "APPROVED",
+                    "SubmissionId": "itpxcrv4y5tokj76cwnatlflv",
+                    "SubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                    "TagDimensionsOrder": [
+                        "Pro"
+                    ],
+                    "ReviewText": "There must be Lock screen Stories just like as in J6.",
+                    "Title": "Lock Screen Stories missed",
+                    "UserNickname": null,
+                    "SecondaryRatings": {
+                        "Value": {
+                            "Value": 4,
+                            "Id": "Value",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Performance": {
+                            "Value": 3,
+                            "Id": "Performance",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Design": {
+                            "Value": 5,
+                            "Id": "Design",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        },
+                        "Features": {
+                            "Value": 3,
+                            "Id": "Features",
+                            "ValueLabel": null,
+                            "MaxLabel": null,
+                            "DisplayType": "NORMAL",
+                            "Label": null,
+                            "ValueRange": 5,
+                            "MinLabel": null
+                        }
+                    },
+                    "TagDimensions": {
+                        "Pro": {
+                            "Values": [
+                                "Bright display"
+                            ],
+                            "Id": "Pro",
+                            "Label": null
+                        }
+                    },
+                    "BadgesOrder": [],
+                    "IsSyndicated": false,
+                    "ProductRecommendationIds": [],
+                    "Badges": {},
+                    "Photos": [],
+                    "Pros": null,
+                    "RatingRange": 5,
+                    "Videos": [],
+                    "UserLocation": null,
+                    "AdditionalFieldsOrder": [],
+                    "Cons": null,
+                    "ContextDataValuesOrder": [],
+                    "AdditionalFields": {},
+                    "ContextDataValues": {},
+                    "ClientResponses": [],
+                    "CommentIds": []
+                }
+            ],
+            "Includes": {
+                "Products": {
+                    "SM-J610FZKGINS": {
+                        "FamilyIds": [
+                            "SM-J610F_DS"
+                        ],
+                        "EANs": [
+                            "8801643499334",
+                            "8801643555634",
+                            "8801643499112"
+                        ],
+                        "AttributesOrder": [
+                            "BV_FE_EXPAND",
+                            "BV_FE_FAMILY"
+                        ],
+                        "Attributes": {
+                            "BV_FE_EXPAND": {
+                                "Id": "BV_FE_EXPAND",
+                                "Values": [
+                                    {
+                                        "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            },
+                            "BV_FE_FAMILY": {
+                                "Id": "BV_FE_FAMILY",
+                                "Values": [
+                                    {
+                                        "Value": "SM-J610F_DS",
+                                        "Locale": null
+                                    }
+                                ]
+                            }
+                        },
+                        "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzkgins-frontblack-119404175",
+                        "Name": "Galaxy J6+",
+                        "Id": "SM-J610FZKGINS",
+                        "CategoryId": "20010500",
+                        "BrandExternalId": "samsung",
+                        "Brand": {
+                            "Id": "samsung",
+                            "Name": "samsung"
+                        },
+                        "Active": true,
+                        "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZKGINS/",
+                        "Disabled": false,
+                        "ManufacturerPartNumbers": [],
+                        "ReviewIds": [],
+                        "QuestionIds": [],
+                        "UPCs": [],
+                        "ModelNumbers": [],
+                        "StoryIds": [],
+                        "ISBNs": [],
+                        "Description": null
+                    }
+                },
+                "ProductsOrder": [
+                    "SM-J610FZKGINS"
+                ],
+                "Authors": {
+                    "qhgxbr28c9ykkywnyzpawnlvn": {
+                        "Id": "qhgxbr28c9ykkywnyzpawnlvn",
+                        "LastModeratedTime": "2018-10-05T11:45:02.000+00:00",
+                        "ModerationStatus": "REJECTED",
+                        "SubmissionTime": "2018-10-05T05:00:43.000+00:00",
+                        "ThirdPartyIds": [],
+                        "Avatar": {},
+                        "CommentIds": [],
+                        "Location": null,
+                        "ProductRecommendationIds": [],
+                        "ContextDataValues": {},
+                        "ContextDataValuesOrder": [],
+                        "StoryIds": [],
+                        "BadgesOrder": [],
+                        "ContributorRank": null,
+                        "AdditionalFields": {},
+                        "SecondaryRatingsOrder": [],
+                        "UserNickname": null,
+                        "Videos": [],
+                        "AnswerIds": [],
+                        "Photos": [],
+                        "QuestionIds": [],
+                        "SubmissionId": null,
+                        "SecondaryRatings": {},
+                        "AdditionalFieldsOrder": [],
+                        "Badges": {},
+                        "ReviewIds": []
+                    }
+                },
+                "AuthorsOrder": [
+                    "qhgxbr28c9ykkywnyzpawnlvn"
+                ]
+            },
+            "HasErrors": false,
+            "Errors": []
+        },
+        "q0": {
+            "Id": "q0",
+            "Limit": 10,
+            "Offset": 0,
+            "TotalResults": 1,
+            "Locale": "en_IN",
+            "Results": [
+                {
+                    "FamilyIds": [
+                        "SM-J610F_DS"
+                    ],
+                    "EANs": [
+                        "8801643499334",
+                        "8801643555634",
+                        "8801643499112"
+                    ],
+                    "AttributesOrder": [
+                        "BV_FE_EXPAND",
+                        "BV_FE_FAMILY"
+                    ],
+                    "Attributes": {
+                        "BV_FE_EXPAND": {
+                            "Id": "BV_FE_EXPAND",
+                            "Values": [
+                                {
+                                    "Value": "BV_FE_FAMILY:SM-J610F_DS",
+                                    "Locale": null
+                                }
+                            ]
+                        },
+                        "BV_FE_FAMILY": {
+                            "Id": "BV_FE_FAMILY",
+                            "Values": [
+                                {
+                                    "Value": "SM-J610F_DS",
+                                    "Locale": null
+                                }
+                            ]
+                        }
+                    },
+                    "ImageUrl": "https://images.samsung.com/is/image/samsung/in-galaxy-j6-j610-sm-j610fzbgins-frontblue-119404156",
+                    "Name": "Galaxy J6+",
+                    "Id": "SM-J610FZBGINS",
+                    "CategoryId": "20010500",
+                    "BrandExternalId": "samsung",
+                    "Brand": {
+                        "Id": "samsung",
+                        "Name": "samsung"
+                    },
+                    "Active": true,
+                    "ProductPageUrl": "https://www.samsung.com/in/smartphones/galaxy-j6-j610/SM-J610FZBGINS/",
+                    "Disabled": false,
+                    "ManufacturerPartNumbers": [],
+                    "ReviewIds": [],
+                    "QuestionIds": [],
+                    "UPCs": [],
+                    "ModelNumbers": [],
+                    "StoryIds": [],
+                    "ISBNs": [],
+                    "Description": null,
+                    "ReviewStatistics": {
+                        "HelpfulVoteCount": 187,
+                        "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                        "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                        "RatingDistribution": [
+                            {
+                                "RatingValue": 5,
+                                "Count": 4
+                            },
+                            {
+                                "RatingValue": 1,
+                                "Count": 2
+                            },
+                            {
+                                "RatingValue": 3,
+                                "Count": 2
+                            },
+                            {
+                                "RatingValue": 2,
+                                "Count": 1
+                            },
+                            {
+                                "RatingValue": 4,
+                                "Count": 1
+                            }
+                        ],
+                        "AverageOverallRating": 3.4,
+                        "RecommendedCount": 7,
+                        "SecondaryRatingsAveragesOrder": [
+                            "Features",
+                            "Performance",
+                            "Design",
+                            "Value"
+                        ],
+                        "SecondaryRatingsAverages": {
+                            "Value": {
+                                "Id": "Value",
+                                "AverageRating": 3.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Design": {
+                                "Id": "Design",
+                                "AverageRating": 4.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Features": {
+                                "Id": "Features",
+                                "AverageRating": 3.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Performance": {
+                                "Id": "Performance",
+                                "AverageRating": 3.4,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            }
+                        },
+                        "FeaturedReviewCount": 0,
+                        "RatingsOnlyReviewCount": 0,
+                        "NotHelpfulVoteCount": 17,
+                        "TotalReviewCount": 10,
+                        "NotRecommendedCount": 3,
+                        "ContextDataDistribution": {},
+                        "ContextDataDistributionOrder": [],
+                        "TagDistribution": {},
+                        "OverallRatingRange": 5,
+                        "TagDistributionOrder": []
+                    },
+                    "TotalReviewCount": 10,
+                    "FilteredReviewStatistics": {
+                        "HelpfulVoteCount": 187,
+                        "FirstSubmissionTime": "2018-09-30T06:12:21.000+00:00",
+                        "LastSubmissionTime": "2018-12-10T03:19:54.000+00:00",
+                        "RatingDistribution": [
+                            {
+                                "RatingValue": 5,
+                                "Count": 4
+                            },
+                            {
+                                "RatingValue": 1,
+                                "Count": 2
+                            },
+                            {
+                                "RatingValue": 3,
+                                "Count": 2
+                            },
+                            {
+                                "RatingValue": 2,
+                                "Count": 1
+                            },
+                            {
+                                "RatingValue": 4,
+                                "Count": 1
+                            }
+                        ],
+                        "AverageOverallRating": 3.4,
+                        "RecommendedCount": 7,
+                        "SecondaryRatingsAveragesOrder": [
+                            "Features",
+                            "Performance",
+                            "Design",
+                            "Value"
+                        ],
+                        "SecondaryRatingsAverages": {
+                            "Value": {
+                                "Id": "Value",
+                                "AverageRating": 3.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Design": {
+                                "Id": "Design",
+                                "AverageRating": 4.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Features": {
+                                "Id": "Features",
+                                "AverageRating": 3.5,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            },
+                            "Performance": {
+                                "Id": "Performance",
+                                "AverageRating": 3.4,
+                                "MinLabel": null,
+                                "MaxLabel": null,
+                                "DisplayType": "NORMAL",
+                                "ValueRange": 5
+                            }
+                        },
+                        "FeaturedReviewCount": 0,
+                        "RatingsOnlyReviewCount": 0,
+                        "NotHelpfulVoteCount": 17,
+                        "TotalReviewCount": 10,
+                        "NotRecommendedCount": 3,
+                        "ContextDataDistribution": {},
+                        "ContextDataDistributionOrder": [],
+                        "TagDistribution": {},
+                        "OverallRatingRange": 5,
+                        "TagDistributionOrder": []
+                    }
+                }
+            ],
+            "Includes": {},
+            "HasErrors": false,
+            "Errors": []
+        }
+    }
+}
